@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "8a897e8b97db2fd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff46d582a03488d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6eff4c238043ba74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily routine/Friday Routine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Friday Routine"
+            }
+          },
+          {
+            "id": "218ec7269918d173",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Plan.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Plan.excalidraw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aacc42bccd5a1b28",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "af3d7492645caa29",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "21a3c4a006339fe3",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "5c6afcfa1d6d64d6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "a21cba79221a1767",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b7164f6c995d35fa",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6feacfa2a293dfd7",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Next Js Course.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "9d954f7d2633fb34",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Next Js Course.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "374d57e7c2455272",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Next Js Course.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "35afcaff7bbd22e7",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6eff4c238043ba74",
+  "lastOpenFiles": [
+    "Daily routine/28 November - 4 December.md",
+    "Excalidraw/Plan.excalidraw.md",
+    "Daily routine/Friday Routine.md",
+    "03_University/1 - ASD Lecture  One.md",
+    "Daily routine",
+    "Pasted image 20251127022129.png",
+    "Pasted image 20251127020804.png",
+    "Pasted image 20251127020740.png",
+    "03_University/1 - ASD Lecture  One - Final.md",
+    "/Pasted image 20251127022129.png",
+    "/Pasted image 20251127020804.png",
+    "/Pasted image 20251127020740.png",
+    "/03_University/1 - ASD Lecture  One.md",
+    "/03_University/1 - ASD Lecture  One - Final.md",
+    "03_University",
+    "/03_University",
+    "Excalidraw/Drawing 2025-11-06 21.48.31.excalidraw.md",
+    "04_FrontEnd/Week One 1.md",
+    "04_FrontEnd/Session 29.md",
+    "01_Quran/Week One.md",
+    "Next Js Course.md"
+  ]
+}
