@@ -39,12 +39,14 @@
             "id": "3105e487b11c5512",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "04_FrontEnd/TanStack Query.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file",
+              "title": "TanStack Query"
             }
           },
           {
@@ -223,6 +225,11 @@
   },
   "active": "3105e487b11c5512",
   "lastOpenFiles": [
+    "Daily routine/Friday Routine.md",
+    "04_FrontEnd/TanStack Query.md",
+    "Excalidraw/Plan.excalidraw.md",
+    "Daily routine/28 November - 4 December.md",
+    "Daily routine",
     "03_University/1 - ASD Lecture  One - Final.md",
     "03_University/1 - ASD Lecture  One.md",
     "Pasted image 20251127022129.png",
@@ -244,7 +251,6 @@
     "04_FrontEnd",
     "03_University",
     "02_Sharia",
-    "01_Quran",
     "Work Guideline.md",
     "Welcome.md"
   ]
