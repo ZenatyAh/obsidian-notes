@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_FrontEnd/TanStack Query.md",
+                "file": "04_FrontEnd/React Router DOM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TanStack Query"
+              "title": "React Router DOM"
             }
           },
           {
@@ -225,8 +225,11 @@
   },
   "active": "3105e487b11c5512",
   "lastOpenFiles": [
-    "Daily routine/Friday Routine.md",
+    "Pasted image 20251202155949.png",
+    "Pasted image 20251202154230.png",
     "04_FrontEnd/TanStack Query.md",
+    "04_FrontEnd/React Router DOM.md",
+    "Daily routine/Friday Routine.md",
     "Excalidraw/Plan.excalidraw.md",
     "Daily routine/28 November - 4 December.md",
     "Daily routine",
