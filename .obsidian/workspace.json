@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "30bbaf6c178ba8ab",
+        "id": "d201ca8a7ae6394e",
         "type": "tabs",
         "children": [
           {
-            "id": "c874468041cb1dc2",
+            "id": "102d26df7bb4fe7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_FrontEnd/Week One 1.md",
+                "file": "البناء المنهجي/11 - شرح المنهاج معيار الوحي وتصحيح المعايير..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week One 1"
-            }
-          },
-          {
-            "id": "1e62cf5f0b2c200a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_University/1 - ASD Lecture  One.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 - ASD Lecture  One"
-            }
-          },
-          {
-            "id": "3105e487b11c5512",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_FrontEnd/React Router DOM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "React Router DOM"
-            }
-          },
-          {
-            "id": "05769caba8f3e7cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_University/1 - ASD Lecture  One - Final.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 - ASD Lecture  One - Final"
+              "title": "11 - شرح المنهاج معيار الوحي وتصحيح المعايير."
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,21 +180,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3105e487b11c5512",
+  "active": "102d26df7bb4fe7c",
   "lastOpenFiles": [
-    "Pasted image 20251202155949.png",
-    "Pasted image 20251202154230.png",
-    "04_FrontEnd/TanStack Query.md",
+    "البناء المنهجي/9 - مركزية الوحي.md",
+    "البناء المنهجي/11 - شرح المنهاج معيار الوحي وتصحيح المعايير..md",
+    "Advanced React Course/2 - Lecture 2.md",
+    "Untitled.md",
+    "Advanced React Course/1 - Lecture one.md",
+    "البناء المنهجي/كيف يرتب طالب العلم يومه.md",
+    "Pasted image 20260113171033.png",
+    "Pasted image 20260113170228.png",
+    "Pasted image 20260113170118.png",
+    "Pasted image 20260113170106.png",
+    "Pasted image 20260113165917.png",
+    "Pasted image 20260113165817.png",
+    "Pasted image 20260113165711.png",
+    "Pasted image 20260113165538.png",
+    "Pasted image 20260113165133.png",
+    "Pasted image 20260113164928.png",
+    "Advanced React Course",
+    "ملاحظات لقاء المشروع النهائي.md",
+    "البناء المنهجي/العلم بالله عزوجل.md",
+    "البناء المنهجي",
+    "Soft Skiils/Lecture Two.md",
+    "TypeScript - Udemy React Course.md",
+    "Soft Skiils/Lecture One.md",
+    "Soft Skiils",
+    "03_University/1 - ASD Lecture  One.md",
+    "03_University/Information Security/Lecture One.md",
     "04_FrontEnd/React Router DOM.md",
+    "03_University/Information Security",
+    "04_FrontEnd/TanStack Query.md",
     "Daily routine/Friday Routine.md",
     "Excalidraw/Plan.excalidraw.md",
     "Daily routine/28 November - 4 December.md",
     "Daily routine",
     "03_University/1 - ASD Lecture  One - Final.md",
-    "03_University/1 - ASD Lecture  One.md",
-    "Pasted image 20251127022129.png",
-    "Pasted image 20251127020804.png",
-    "Pasted image 20251127020740.png",
     "Next Js Course.md",
     "04_FrontEnd/Week One 1.md",
     "04_FrontEnd/Session 29.md",
@@ -249,12 +227,6 @@
     "Dashboard.md",
     "08_Resources",
     "07_Reflections",
-    "06_Scholarships",
-    "05_English",
-    "04_FrontEnd",
-    "03_University",
-    "02_Sharia",
-    "Work Guideline.md",
-    "Welcome.md"
+    "06_Scholarships"
   ]
 }
